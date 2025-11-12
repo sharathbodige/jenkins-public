@@ -1,2 +1,2 @@
 My new file
-This was changed when the web hook URL is added
+Changed are made when the commit done after web hook URL added
