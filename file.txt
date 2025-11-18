@@ -1,2 +1,1 @@
-My new file
-Changed are made when the commit done after web hook URL added
+This is declarative pipeline generated through git clone
